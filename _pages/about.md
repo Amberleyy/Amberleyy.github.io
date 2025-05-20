@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
 
+I am a first year Graduate student pursuing a Master's degree from DHU.My research interest includes AI.
